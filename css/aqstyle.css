@@ -420,6 +420,8 @@ background-color: transparent;
 
 }
 .box1 {
+	width:150px;
+	height:auto;
     position: relative;
     margin:1em 0;
 	    padding-top: 0.7em;
@@ -647,3 +649,4 @@ margin:0;
 
 
 }
+
